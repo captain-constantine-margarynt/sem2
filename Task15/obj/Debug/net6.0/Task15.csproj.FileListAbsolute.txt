@@ -1,0 +1,15 @@
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/bin/Debug/net6.0/Task15
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/bin/Debug/net6.0/Task15.deps.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/bin/Debug/net6.0/Task15.runtimeconfig.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/bin/Debug/net6.0/Task15.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/bin/Debug/net6.0/Task15.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/obj/Debug/net6.0/Task15.csproj.AssemblyReference.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/obj/Debug/net6.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/obj/Debug/net6.0/Task15.AssemblyInfoInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/obj/Debug/net6.0/Task15.AssemblyInfo.cs
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/obj/Debug/net6.0/Task15.csproj.CoreCompileInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/obj/Debug/net6.0/Task15.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/obj/Debug/net6.0/refint/Task15.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/obj/Debug/net6.0/Task15.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/obj/Debug/net6.0/Task15.genruntimeconfig.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/7. Знакомство с языками программирования (семинары) /Урок 2. Базовые алгоритмы/Samples/sem2/HW2/Task15/obj/Debug/net6.0/ref/Task15.dll
